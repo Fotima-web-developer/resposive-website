@@ -1,1 +1,1 @@
-# resposive-website
+# responsive-website
